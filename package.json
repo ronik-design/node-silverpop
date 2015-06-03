@@ -1,6 +1,6 @@
 {
   "name": "silverpop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Silverpop Engage API Library",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "mocha": "~1.21.4",
-    "should": "~4.0.4",
-    "nock": "~0.45.0"
+    "nock": "^2.3.0",
+    "should": "~4.0.4"
   }
 }
